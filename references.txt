@@ -1,0 +1,9 @@
+https://rasa.com/docs/rasa/command-line-interface
+
+
+
+steps to execute:
+Activate the scripts/activate at library folder at vnev which will run the rasa files
+rasa train --domain "D:\php\New folder\htdocs\College_Enquiry_Chatbot\chatbot\domain.yaml"
+rasa run --enable-api --cors "*"
+run the text to speech on another cmd

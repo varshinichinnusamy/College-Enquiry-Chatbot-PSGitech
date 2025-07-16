@@ -1,2 +1,2 @@
 # College-Enquiry-Chatbot-PSGitech
-chatbot
+College enquiry chatbot for PSGiTech.
